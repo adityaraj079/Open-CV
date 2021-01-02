@@ -29,3 +29,5 @@ Day 1
 6) Generate Eroded image
 
 Day 2
+1) Resizing the image
+2) Cropping the image
