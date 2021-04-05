@@ -1,7 +1,7 @@
 # Open-CV
-Beginning Open-CV play 
+Beginning the Open-CV play 
 
-This is the beginning of the Open-CV play
+This is the beginning of my Open-CV play
 
 First and for most get this libraries installed for copying my stuff
 1) Python
